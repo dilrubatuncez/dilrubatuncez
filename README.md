@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dilruba Tunçez</h1>
 
-<!--
-**dilrubatuncez/dilrubatuncez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Web Developer @ Flowmaxi
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Web design & calculation tools • JavaScript • Python • FastAPI
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 About Me
+- 💼 Web Developer at **Flowmaxi**
+- 🎨 Building **web designs** and **calculation-based applications**
+- 🧠 Focused on clean UI and reliable backend logic
+- 🔧 Working with both frontend and backend technologies
+
+---
+
+### 🛠️ Tech Stack
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+
+**Backend**
+- Python
+- FastAPI
+
+**Other Languages**
+- Java
+- C
+- C#
+- Swift
+
+---
+
+### 🔗 Links
+- 🐙 GitHub: **https://github.com/dilrubatuncez**
+- 💼 LinkedIn: **https://www.linkedin.com/in/dilruba-tunçez-869b24200**
+
+---
+
+<p align="center">
+✨ Always learning, always building ✨
+</p>
