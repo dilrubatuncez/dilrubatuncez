@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilruba Tunçez</h1>
 
 <h3 align="center">
-Web Developer @ Flowmaxi
+Web Developer
 </h3>
 
 <p align="center">
