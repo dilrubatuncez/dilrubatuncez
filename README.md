@@ -11,8 +11,8 @@ Web & Mobile app design & calculation tools • JavaScript • Python • FastAP
 ---
 
 ### 👩‍💻 About Me
-- 💼 Web Developer at **Flowmaxi**
-- 🎨 Building **web designs** and **calculation-based applications**
+- 💼 Web & Mobile App Developer at **Flowmaxi**
+- 🎨 Building **web & mobil designs** and **calculation-based applications**
 - 🧠 Focused on clean UI and reliable backend logic
 - 🔧 Working with both frontend and backend technologies
 
