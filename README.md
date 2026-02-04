@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Dilruba </h1>
 
 <h3 align="center">
-Web Developer
+Web & Mobile App Developer
 </h3>
 
 <p align="center">
-Web design & calculation tools • JavaScript • Python • FastAPI
+Web & Mobile app design & calculation tools • JavaScript • Python • FastAPI
 </p>
 
 ---
