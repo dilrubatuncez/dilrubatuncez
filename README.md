@@ -5,7 +5,7 @@ Web & Mobile App Developer
 </h3>
 
 <p align="center">
-Web & Mobile app design & calculation tools • JavaScript • Python • FastAPI
+Web & Mobile app design & calculation tools • JavaScript • Python 
 </p>
 
 ---
