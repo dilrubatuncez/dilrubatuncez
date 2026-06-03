@@ -1,47 +1,55 @@
-<h1 align="center">Hi, I'm Dilruba </h1>
+GitHub 
 
-<h3 align="center">
-Web & Mobile App Developer
-</h3>
 
-<p align="center">
-Web & Mobile app design & calculation tools • JavaScript • Python 
-</p>
+# Hi, I'm Dilruba 👋
+
+### Flutter & Mobile App Developer
+
+Computer Engineering graduate building mobile and web applications with a focus on clean UI and reliable functionality.
 
 ---
 
 ### 👩‍💻 About Me
-- 💼 Web & Mobile App Developer at **Flowmaxi**
-- 🎨 Building **web & mobil designs** and **calculation-based applications**
-- 🧠 Focused on clean UI and reliable backend logic
-- 🔧 Working with both frontend and backend technologies
+
+- 💼 Mobile & Web App Developer at **Flowmaxi**
+- 📱 Building **engineering calculation apps** for iOS & Android with Flutter/Dart
+- ⚖️ Developed **Clariolaw** — a SaaS web application for lawyers
+- 🎨 Passionate about **frontend design** and intuitive user experiences
+- 🌱 Always learning, always building
 
 ---
 
 ### 🛠️ Tech Stack
+
+**Mobile**
+- Flutter / Dart
+- Swift (iOS)
+- Java (Android)
+
 **Frontend**
-- HTML
-- CSS
-- JavaScript
+- HTML / CSS / JavaScript
 
 **Backend**
-- Python
-- FastAPI
-
-**Other Languages**
-- Java
-- C
+- Python / FastAPI
 - C#
-- Swift
+
+---
+
+### 🚀 Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| Flowmaxi | Engineering calculation mobile app (iOS & Android) | Flutter, Dart |
+| Clariolaw | SaaS web application for lawyers | JavaScript |
+| It’s The Seasons | iOS app — seasonal food & vegetable guide | Swift |
 
 ---
 
 ### 🔗 Links
-- 🐙 GitHub: **https://github.com/dilrubatuncez**
-- 💼 LinkedIn: **https://www.linkedin.com/in/dilruba-tunçez-869b24200**
+
+- 💼 LinkedIn: [dilruba-tuncez](https://www.linkedin.com/in/dilruba-tuncez-869b24200)
+- 🌐 Web: [clariolaw.com](https://clariolaw.com)
 
 ---
 
-<p align="center">
-✨ Always learning, always building ✨
-</p>
+✨ Open to remote opportunities in mobile and frontend development ✨
